@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
 
 website:
   title: "SDS 3120 Data Mining"
@@ -15,6 +17,8 @@ website:
         text: Home
       - href: resources.qmd
         text: Resources
+      - href: lectures.qmd
+        text: Lecture Notes
   sidebar:
     - title: "Resources"
       background: primary
@@ -24,7 +28,6 @@ website:
             - resources.qmd
             - resource/r.qmd
             - resource/python.qmd
-
 
 format:
   html:

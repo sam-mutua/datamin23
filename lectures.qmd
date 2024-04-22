@@ -1,0 +1,18 @@
+---
+title: "Lecture Materials"
+sidebar: false
+---
+
+:::{.callout-important}
+The weekly lecture notes slides will be uploaded here. Kindly ensure you can be able to view or download the slides for your own use. 
+:::
+
+# Slides 
+
+## Week One
+
+- [Week One Lecture Notes -html file](/slides/Lecture_One.html)
+
+- [Week One Lecture Notes - pdf](/pdf/lec_one.pdf)
+
+
