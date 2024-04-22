@@ -1,0 +1,5 @@
+---
+title: "Helpful Resources"
+---
+
+I have included a bunch of resources and guides related to data mining. Enjoy as you explore the session. 

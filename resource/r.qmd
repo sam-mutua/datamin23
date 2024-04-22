@@ -1,0 +1,67 @@
+---
+title: "Installing R and RStudio"
+---
+
+You will do most of your work in this class with the open source programming language [R](https://www.r-project.org/). You will use [RStudio](https://posit.co/download/rstudio-desktop/) as the IDE for R. 
+
+# Posit Cloud
+
+[Posit Cloud](https://posit.cloud/) formerly RStudio Cloud lets you access Posit's powerful set of data science tools right in your browser- no installation or complex configuration required. 
+
+Kindly note that: We will have a shared class workspace in Posit.cloud that will let you quickly copy templates for assignments, exercises and continuous assessment tests. 
+
+Visit <https://posit.cloud/> and create an account. 
+
+
+# Install R
+
+You will need to install R first. The steps are outlined here:
+
+1. Go to the website <https://cran.r-project.org/>. Depending on your Operating System see as follows:
+
+ - [Windows](https://cran.r-project.org/bin/windows/base/)
+ 
+ - [macOS](https://cran.r-project.org/bin/macosx/)
+ 
+ - [Linus](https://cran.r-project.org/bin/linux/)
+
+2. If on Windows double click the downloaded file from your **Downloads Folder**. Click yes through all the prompts to install like any other program
+
+
+# Install RStudio
+
+You will need to install RStudio the Graphical User Interface for R. Once you have installed RStudio you can ignore R and you RStudio.
+
+The steps are provided as follows
+
+1. Go to the free download location for RStudio as <https://posit.co/download/rstudio-desktop/>
+
+2. The website should automatically detect your operating system. 
+
+![](/files/rstudio.png){width=50%}
+
+If it does not scroll down and you will see a table and you choose your operating system
+
+![](/files/table.png){width=50%}
+
+3. Double click on the downloaded file. Click yes through all the prompts in order to install the program
+
+
+# Installing a Package
+
+You can install a package in two ways:
+
+1. The **command way** as follows
+
+```{r,eval=FALSE}
+install.packages("name of package")
+```
+
+2. Using the Packages tab on RStudio
+
+![](/files/package.png){width=50%}
+
+Click on **Install** and type the name of the package you wish to install.
+
+
+![](/files/install.png){width=50%}

@@ -1,0 +1,24 @@
+---
+title: "Installing Python"
+---
+
+We will occassionally use Python during class work. Mostly we will integrate Python and R. I have found this a useful feature for RStudio.
+
+To start we will install Python and we follow the steps given here.
+
+1. Go to <https://www.python.org/> and select downloads. Choose based on your operating system
+
+![](/files/python.png){width=50%}
+
+2. Double click on the downloaded file. Click yes through all the prompts in order to install the program.
+
+
+To install Jupyter Notebook we will need to download Anaconda.
+
+Follow the steps outlined:
+
+1. Visit <https://www.anaconda.com/> and select free download
+
+2. Double click on the downloaded file and follow steps given.
+
+[For more instructions on how to install Anaconda for Windows, kindly see here](https://docs.anaconda.com/free/anaconda/install/windows/)

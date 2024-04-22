@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SDS 3120 Data Mining"
+  favicon: "files/imgfile.png"
+  page-footer:
+    left: "&copy;2024 Dr. Mutua Kilai"
+    right: Made with [Quarto](https://quarto.org/)
+  navbar:
+    background: "#70a24f"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: resources.qmd
+        text: Resources
+  sidebar:
+    - title: "Resources"
+      background: primary
+      contents:
+        - section: "Resources"
+          contents:
+            - resources.qmd
+            - resource/r.qmd
+            - resource/python.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

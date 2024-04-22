@@ -1,0 +1,100 @@
+---
+title: ""
+sidebar: false
+---
+
+::: {.home}
+
+:::: {.grid .course-details}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Lecturer
+
+-  {{< fa user >}} &nbsp; [Dr. Mutua Kilai](https://sam-mutua.github.io/work/)
+-  {{< fa university >}} &nbsp; Academic Block
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Course details
+
+- {{< fa calendar >}} &nbsp; Every Tuesday
+- {{< fa calendar-alt >}} &nbsp; May 2024 - August 2024
+- {{< fa clock >}} &nbsp; 4.00PM- 6.00PM
+- {{< fa location-dot >}} &nbsp; Virtual
+
+:::
+
+
+::::
+
+:::
+
+![](/files/imgfile.png){width=50%}
+
+
+# Course Purpose
+
+The **purpose of the course** is to equip learners for developing, manipulating, recovering and maintaining databases.
+
+
+# Learning Outcomes
+
+At the end of the course the learner should be able to:
+
+- Explain the concepts of data mining
+- Apply mining on different kinds of data
+- Apply mining on different kinds of knowledge 
+- Discuss principles of pattern analysis and machine learning
+- Demonstrate representation discovery using Harmonic Analysis
+
+This class will expose you to [R](https://www.r-project.org/) and [Python](https://www.python.org/) the leading programming languages in this century. 
+
+This module provides an introduction to the basic ideas and methods of mathematical data mining. In this course, we will consider the following problems: classification, cluster and outlier analysis, mining time-series and sequence data, text mining and web mining, pattern analysis.
+
+A lecture-based module open to all students with a suitable grounding. It covers the fundamental data mining ideas (clustering, support vector machine analysis, semi-supervised learning, information retrieval, collaborative filtering, harmonic analysis) and the most important algorithms (the k-means algorithm, support vector machines, PageRank algorithm, k-nearest neighbor classification, Naive Bayes).
+
+
+# Course Materials
+
+All of the readings in this course are **free**. R, RStudio and Python are free and available online. 
+
+# R and RStudio
+
+[You can find instruction on installing R and RStudio here](/resource/r.qmd)
+
+# Python and Jupyter Notebook
+
+[To learn more on installing Python and Jupyter Notebook read here](/resource/python.qmd)
+
+# Brief Video on Data Mining
+
+Watch this video for brief insight on data mining.
+
+<div class="ratio ratio-16x9">
+<iframe width="912" height="513" src="https://www.youtube.com/embed/mOfPG5ZIY-k" title="What is Data Mining and Why is it Important?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+# Assignment and Course Assessment
+
+You can find the set of class assignments on the [assignment section](/assignment/assignment.qmd)
+
+The course grades are as follows
+
+| Grade | Range  |
+|-------|--------|
+| A     | 70-100 |
+| B     | 60-69  |
+| c     | 50-59  |
+| F     | 0-49   |
+
+The pass mark is **50 and Above**
+
+For continuous assessment test they account **40%** of the total score and they will be distributed as follows:
+
+| Continuous Assessment | Contribution |
+|-----------------------|--------------|
+| Mini-project          | 15%          |
+| Presentation          | 10%          |
+| CAT                   | 10%          |
+| Assignments           | 5%           |

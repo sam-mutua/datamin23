@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Course Purpose",
+    "section": "",
+    "text": "Lecturer\n\n   Dr. Mutua Kilai\n   Academic Block\n\n\n\nCourse details\n\n   Every Tuesday\n   May 2024 - August 2024\n   4.00PM- 6.00PM\n   Virtual\n\n\n\n\n\n\nCourse Purpose\nThe purpose of the course is to equip learners for developing, manipulating, recovering and maintaining databases.\n\n\nLearning Outcomes\nAt the end of the course the learner should be able to:\n\nExplain the concepts of data mining\nApply mining on different kinds of data\nApply mining on different kinds of knowledge\nDiscuss principles of pattern analysis and machine learning\nDemonstrate representation discovery using Harmonic Analysis\n\nThis class will expose you to R and Python the leading programming languages in this century.\nThis module provides an introduction to the basic ideas and methods of mathematical data mining. In this course, we will consider the following problems: classification, cluster and outlier analysis, mining time-series and sequence data, text mining and web mining, pattern analysis.\nA lecture-based module open to all students with a suitable grounding. It covers the fundamental data mining ideas (clustering, support vector machine analysis, semi-supervised learning, information retrieval, collaborative filtering, harmonic analysis) and the most important algorithms (the k-means algorithm, support vector machines, PageRank algorithm, k-nearest neighbor classification, Naive Bayes).\n\n\nCourse Materials\nAll of the readings in this course are free. R, RStudio and Python are free and available online.\n\n\nR and RStudio\nYou can find instruction on installing R and RStudio here\n\n\nPython and Jupyter Notebook\nTo learn more on installing Python and Jupyter Notebook read here\n\n\nBrief Video on Data Mining\nWatch this video for brief insight on data mining.\n\n\n\n\n\n\nAssignment and Course Assessment\nYou can find the set of class assignments on the assignment section\nThe course grades are as follows\n\n\n\nGrade\nRange\n\n\n\n\nA\n70-100\n\n\nB\n60-69\n\n\nc\n50-59\n\n\nF\n0-49\n\n\n\nThe pass mark is 50 and Above\nFor continuous assessment test they account 40% of the total score and they will be distributed as follows:\n\n\n\nContinuous Assessment\nContribution\n\n\n\n\nMini-project\n15%\n\n\nPresentation\n10%\n\n\nCAT\n10%\n\n\nAssignments\n5%"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Helpful Resources",
+    "section": "",
+    "text": "I have included a bunch of resources and guides related to data mining. Enjoy as you explore the session."
+  },
+  {
+    "objectID": "resource/r.html",
+    "href": "resource/r.html",
+    "title": "Installing R and RStudio",
+    "section": "",
+    "text": "You will do most of your work in this class with the open source programming language R. You will use RStudio as the IDE for R.\n\nPosit Cloud\nPosit Cloud formerly RStudio Cloud lets you access Posit’s powerful set of data science tools right in your browser- no installation or complex configuration required.\nKindly note that: We will have a shared class workspace in Posit.cloud that will let you quickly copy templates for assignments, exercises and continuous assessment tests.\nVisit https://posit.cloud/ and create an account.\n\n\nInstall R\nYou will need to install R first. The steps are outlined here:\n\nGo to the website https://cran.r-project.org/. Depending on your Operating System see as follows:\n\n\nWindows\nmacOS\nLinus\n\n\nIf on Windows double click the downloaded file from your Downloads Folder. Click yes through all the prompts to install like any other program\n\n\n\nInstall RStudio\nYou will need to install RStudio the Graphical User Interface for R. Once you have installed RStudio you can ignore R and you RStudio.\nThe steps are provided as follows\n\nGo to the free download location for RStudio as https://posit.co/download/rstudio-desktop/\nThe website should automatically detect your operating system.\n\n\nIf it does not scroll down and you will see a table and you choose your operating system\n\n\nDouble click on the downloaded file. Click yes through all the prompts in order to install the program\n\n\n\nInstalling a Package\nYou can install a package in two ways:\n\nThe command way as follows\n\n\ninstall.packages(\"name of package\")\n\n\nUsing the Packages tab on RStudio\n\n\nClick on Install and type the name of the package you wish to install."
+  },
+  {
+    "objectID": "resource/python.html",
+    "href": "resource/python.html",
+    "title": "Installing Python",
+    "section": "",
+    "text": "We will occassionally use Python during class work. Mostly we will integrate Python and R. I have found this a useful feature for RStudio.\nTo start we will install Python and we follow the steps given here.\n\nGo to https://www.python.org/ and select downloads. Choose based on your operating system\n\n\n\nDouble click on the downloaded file. Click yes through all the prompts in order to install the program.\n\nTo install Jupyter Notebook we will need to download Anaconda.\nFollow the steps outlined:\n\nVisit https://www.anaconda.com/ and select free download\nDouble click on the downloaded file and follow steps given.\n\nFor more instructions on how to install Anaconda for Windows, kindly see here"
+  },
+  {
+    "objectID": "assignment/assignment.html",
+    "href": "assignment/assignment.html",
+    "title": "Assignment and Exercises",
+    "section": "",
+    "text": "In order to get the most out of this class you need to:\n\nActively engage on the readings and lecture materials\nRegularly use R and Python\n\nEach of the assignment will help with the above aspects.\nEnsure that you activley work out the assignments given and submit on time."
+  }
+]
