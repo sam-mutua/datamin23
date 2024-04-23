@@ -15,4 +15,11 @@ The weekly lecture notes slides will be uploaded here. Kindly ensure you can be 
 
 - [Week One Lecture Notes - pdf](/pdf/lec_one.pdf)
 
+<div>
 
+```{=html}
+<iframe class="slide-deck" src="/slides/Lecture_One.html"></iframe>
+```
+
+
+</div>

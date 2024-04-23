@@ -12,13 +12,13 @@ format:
     slide-number: true
 ---
 
-# Purpose of the Course
+## Purpose of the Course
 
 :::{.callout-important}
 *The purpose of the course is to equip learners with necessary skills for developing, manipulating, recovering and maintaining databases.*
 :::
 
-# Learning Outcomes
+## Learning Outcomes
 
 - By the end of the Course the learner should be able to:
 
@@ -29,7 +29,7 @@ format:
   - Demonstrate representation discovery
 
 
-# Course Content
+## Course Content
 
 - In this course we will consider the following problems:
 
@@ -37,7 +37,7 @@ format:
    - Mining time series and sequence data
    - Text mining, web mining and pattern analysis
 
-# Course Content Cont'd
+## Course Content Cont'd
 
 - We cover fundamental data mining ideas:
     - Clustering, SVM
@@ -46,7 +46,7 @@ format:
     - Most important algorithms in data mining
 
 
-# Logistics of the Course
+## Logistics of the Course
 
 - **Course Website:** <https://sam-mutua.github.io/datamin23/>
 
@@ -57,7 +57,7 @@ format:
 - The website also has useful resources on data mining.
 
 
-# Programming Languages
+## Programming Languages
 
 - We will use [R]() and [Python]() programming languages which are **Free and Open Source.**
 
@@ -66,7 +66,7 @@ format:
 - Details on Installing the softwares can be found [here](https://sam-mutua.github.io/datamin23/resource/r.html)
 
 
-# Data Mining
+## Data Mining
 
 - **Data Mining** is the process of automatically discovering useful information in large data repositories.
 
@@ -74,7 +74,7 @@ format:
 
 - Data mining is a key part of **knowledge discovery in databases(KDD)**.
 
-# KDD Process
+## KDD Process
 
 ![*Data Mining: Searching for patterns in data*](/files/dm.png){width=30%}
 
@@ -82,7 +82,7 @@ format:
 - The knowledge discovery process is an iterative sequence with several steps.
 
 
-# Steps of KDD
+## Steps of KDD
 
 1. **Data Cleaning** - The removal of noise and inconsistent data.
 
@@ -97,7 +97,7 @@ format:
 6. **Pattern Evaluation** - Identify interesting patterns in data
 
 
-# Key Points
+## Key Points
 
 :::{.callout-important}
 **Data Mining** is the *process* of discovering interesting patterns and knowledge from *large* amounts of data.
@@ -114,7 +114,7 @@ The data sources can be:
 :::
 
 
-# Motivation
+## Motivation
 
 - Specific challenges that motivated data mining:
 
@@ -124,7 +124,7 @@ The data sources can be:
    - *Data Ownership and Distribution*: Data that is geographically distributed not in one place.
 
 
-# Origin of Data Mining
+## Origin of Data Mining
 
 ::::{.columns}
 :::{.column}
@@ -146,7 +146,7 @@ The data sources can be:
 ::::
 
 
-# What kind of data can be mined?
+## What kind of data can be mined?
 
 - Data mining can be applied to any kind of data as long as the data are meaningful.
 
@@ -157,7 +157,7 @@ The data sources can be:
    - Transactional data
 
 
-# Cont'd
+## Cont'd
 
 - Data mining can also be applied to other forms of data such as:
 
@@ -169,7 +169,7 @@ The data sources can be:
    - Multimedia data
 
 
-# Data Mining Tasks
+## Data Mining Tasks
 
 - Data mining are divided into two major categories.
 
@@ -186,16 +186,16 @@ The data sources can be:
 ::::
 
 
-# Cont'd
+## Cont'd
 
 ![*Four core data mining tasks*](/files/core.png){width=50%}
 
 
-# Technologies Used
+## Technologies Used
 
 ![*Technologies used in data mining*](/files/tech.png){width=50%}
 
-# Application of Data Mining
+## Application of Data Mining
 
 ::::{.columns}
 :::{.column}
@@ -208,12 +208,12 @@ The data sources can be:
 ::::
 
 
-# Take Home Exercise
+## Take Home Exercise
 
 Suppose that you are employed as a data mining consultant for an Internet search engine company. Describe how data mining can help the company by giving specific examples of how techniques, such as clustering, classification, association rule mining, and anomaly detection can be applied.
 
 
-# References
+## References
 
 1. S. Chakrabarti. Mining the Web: Discovering Knowledge from Hypertext Data. Morgan Kaufmann, San Francisco, CA, 2003.
 

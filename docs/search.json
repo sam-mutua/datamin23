@@ -61,5 +61,145 @@
     "title": "Lecture Materials",
     "section": "Week One",
     "text": "Week One\n\nWeek One Lecture Notes -html file\nWeek One Lecture Notes - pdf"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#purpose-of-the-course",
+    "href": "slides/Lecture_One.html#purpose-of-the-course",
+    "title": "SDS 3120: Data Mining",
+    "section": "Purpose of the Course",
+    "text": "Purpose of the Course\n\n\n\n\n\n\nImportant\n\n\nThe purpose of the course is to equip learners with necessary skills for developing, manipulating, recovering and maintaining databases."
+  },
+  {
+    "objectID": "slides/Lecture_One.html#learning-outcomes",
+    "href": "slides/Lecture_One.html#learning-outcomes",
+    "title": "SDS 3120: Data Mining",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\n\nBy the end of the Course the learner should be able to:\n\nExplain concepts of data mining\nApply mining on different kinds of data\nApply mining on different kind of knowledge\nDiscuss principles of pattern analysis and machine learning\nDemonstrate representation discovery"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#course-content",
+    "href": "slides/Lecture_One.html#course-content",
+    "title": "SDS 3120: Data Mining",
+    "section": "Course Content",
+    "text": "Course Content\n\nIn this course we will consider the following problems:\n\nClassification, cluster and outlier analysis\nMining time series and sequence data\nText mining, web mining and pattern analysis"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#course-content-contd",
+    "href": "slides/Lecture_One.html#course-content-contd",
+    "title": "SDS 3120: Data Mining",
+    "section": "Course Content Cont’d",
+    "text": "Course Content Cont’d\n\nWe cover fundamental data mining ideas:\n\nClustering, SVM\nSemi-supervised learning\nInformation retrieval\nMost important algorithms in data mining"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#logistics-of-the-course",
+    "href": "slides/Lecture_One.html#logistics-of-the-course",
+    "title": "SDS 3120: Data Mining",
+    "section": "Logistics of the Course",
+    "text": "Logistics of the Course\n\nCourse Website: https://sam-mutua.github.io/datamin23/\nAll Lecture Notes will be uploaded per week.\nAll Assignments will also be posted in the course website.\nThe website also has useful resources on data mining."
+  },
+  {
+    "objectID": "slides/Lecture_One.html#programming-languages",
+    "href": "slides/Lecture_One.html#programming-languages",
+    "title": "SDS 3120: Data Mining",
+    "section": "Programming Languages",
+    "text": "Programming Languages\n\nWe will use R and Python programming languages which are Free and Open Source.\nWe will also use SQL for databases lectures.\nDetails on Installing the softwares can be found here"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#data-mining",
+    "href": "slides/Lecture_One.html#data-mining",
+    "title": "SDS 3120: Data Mining",
+    "section": "Data Mining",
+    "text": "Data Mining\n\nData Mining is the process of automatically discovering useful information in large data repositories.\nData mining techniques are used in order to find useful patterns.\nData mining is a key part of knowledge discovery in databases(KDD)."
+  },
+  {
+    "objectID": "slides/Lecture_One.html#kdd-process",
+    "href": "slides/Lecture_One.html#kdd-process",
+    "title": "SDS 3120: Data Mining",
+    "section": "KDD Process",
+    "text": "KDD Process\n\nData Mining: Searching for patterns in data\nThe knowledge discovery process is an iterative sequence with several steps."
+  },
+  {
+    "objectID": "slides/Lecture_One.html#steps-of-kdd",
+    "href": "slides/Lecture_One.html#steps-of-kdd",
+    "title": "SDS 3120: Data Mining",
+    "section": "Steps of KDD",
+    "text": "Steps of KDD\n\nData Cleaning - The removal of noise and inconsistent data.\nData Integration - Combining of multiple data sources.\nData Selection - Data relevant to analysis is selected\nData Transformation- Data are transformed into various forms.\nData Mining - Extracting data patterns\nPattern Evaluation - Identify interesting patterns in data"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#key-points",
+    "href": "slides/Lecture_One.html#key-points",
+    "title": "SDS 3120: Data Mining",
+    "section": "Key Points",
+    "text": "Key Points\n\n\n\n\n\n\nImportant\n\n\nData Mining is the process of discovering interesting patterns and knowledge from large amounts of data.\n\n\n\n\n\n\n\n\n\nTip\n\n\nThe data sources can be:\n\nDatabases\nData warehouse\nWeb\nOther information repositories"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#motivation",
+    "href": "slides/Lecture_One.html#motivation",
+    "title": "SDS 3120: Data Mining",
+    "section": "Motivation",
+    "text": "Motivation\n\nSpecific challenges that motivated data mining:\n\nScalability: Data mining algorithms to handle massive data\nHigh dimensionality: Encounter data sets with thousands of attributes.\nHeterogenous and Complex Data: Need to handle complex attributes\nData Ownership and Distribution: Data that is geographically distributed not in one place."
+  },
+  {
+    "objectID": "slides/Lecture_One.html#origin-of-data-mining",
+    "href": "slides/Lecture_One.html#origin-of-data-mining",
+    "title": "SDS 3120: Data Mining",
+    "section": "Origin of Data Mining",
+    "text": "Origin of Data Mining\n\n\n\nData mining draws upon ideas such as:\n\nSampling, estimation, hypothesis testing\nSearch algorithms\nModeling techniques\nPattern recognition\n\n\n\n\nData mining has also adopted ideas from other areas such as:\n\nOptimization\nEvolutionary computing\nInformation theory\nSignal processing"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#what-kind-of-data-can-be-mined",
+    "href": "slides/Lecture_One.html#what-kind-of-data-can-be-mined",
+    "title": "SDS 3120: Data Mining",
+    "section": "What kind of data can be mined?",
+    "text": "What kind of data can be mined?\n\nData mining can be applied to any kind of data as long as the data are meaningful.\nThe most basic forms for data mining applications are:\n\nDatabase data\nData warehouse data\nTransactional data"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#contd",
+    "href": "slides/Lecture_One.html#contd",
+    "title": "SDS 3120: Data Mining",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nData mining can also be applied to other forms of data such as:\n\nData streams\nOrdered/sequence data\ndata graph\nspatial data\ntext data\nMultimedia data"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#data-mining-tasks",
+    "href": "slides/Lecture_One.html#data-mining-tasks",
+    "title": "SDS 3120: Data Mining",
+    "section": "Data Mining Tasks",
+    "text": "Data Mining Tasks\n\nData mining are divided into two major categories.\n\n\n\nPredictive Tasks: The objective is to predict the value of a particular attribute based on the value of other attributes\n\nDescriptive Tasks: Here the objective is to derive patterns (correlations, trends, clusters, trajectories and anomalies) that summarize underlying relationships in data."
+  },
+  {
+    "objectID": "slides/Lecture_One.html#contd-1",
+    "href": "slides/Lecture_One.html#contd-1",
+    "title": "SDS 3120: Data Mining",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nFour core data mining tasks"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#technologies-used",
+    "href": "slides/Lecture_One.html#technologies-used",
+    "title": "SDS 3120: Data Mining",
+    "section": "Technologies Used",
+    "text": "Technologies Used\n\nTechnologies used in data mining"
+  },
+  {
+    "objectID": "slides/Lecture_One.html#application-of-data-mining",
+    "href": "slides/Lecture_One.html#application-of-data-mining",
+    "title": "SDS 3120: Data Mining",
+    "section": "Application of Data Mining",
+    "text": "Application of Data Mining\n\n\nBusiness Intelligence (BI) technologies provide historical, current and predictive views of business operations. Examples include: reporting, predictive analytics, benchmarking etc\n\nWeb Search Engines is a specialized computer server that searches for information on the web. The search results of a user query are often returned as a list."
+  },
+  {
+    "objectID": "slides/Lecture_One.html#take-home-exercise",
+    "href": "slides/Lecture_One.html#take-home-exercise",
+    "title": "SDS 3120: Data Mining",
+    "section": "Take Home Exercise",
+    "text": "Take Home Exercise\nSuppose that you are employed as a data mining consultant for an Internet search engine company. Describe how data mining can help the company by giving specific examples of how techniques, such as clustering, classification, association rule mining, and anomaly detection can be applied."
+  },
+  {
+    "objectID": "slides/Lecture_One.html#references",
+    "href": "slides/Lecture_One.html#references",
+    "title": "SDS 3120: Data Mining",
+    "section": "References",
+    "text": "References\n\nS. Chakrabarti. Mining the Web: Discovering Knowledge from Hypertext Data. Morgan Kaufmann, San Francisco, CA, 2003.\nPang-Ning Tan, Michael Steinbach, Vipin Kumar: Introduction to Data Mining. Pearson Education Limited 2014. ISBN 10: 1-292-02615-4\nJiawei Han, Micheline Kamber, Jian Pei: Data Mining Concepts and Techniques 2015, Morgan Kaufmann Publishers\n\n\n\n\nDr. Mutua Kilai, PhD"
   }
 ]
