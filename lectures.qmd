@@ -11,15 +11,5 @@ The weekly lecture notes slides will be uploaded here. Kindly ensure you can be 
 
 ## Week One
 
-- [Week One Lecture Notes -html file](/slides/Lecture_One.html)
+- [Introduction to Data Mining - pdf](/pdf/lec_one.pdf)
 
-- [Week One Lecture Notes - pdf](/pdf/lec_one.pdf)
-
-<div>
-
-```{=html}
-<iframe class="slide-deck" src="/slides/Lecture_One.html"></iframe>
-```
-
-
-</div>

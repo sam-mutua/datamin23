@@ -126,8 +126,8 @@ The data sources can be:
 
 ## Origin of Data Mining
 
-::::{.columns}
-:::{.column}
+:::: {.columns}
+::: {.column}
 - Data mining draws upon ideas such as:
    - Sampling, estimation, hypothesis testing
    - Search algorithms
@@ -135,7 +135,7 @@ The data sources can be:
    - Pattern recognition
 :::
 
-:::{.column}
+::: {.column}
 -  Data mining has also adopted ideas from other areas such as:
     - Optimization
     - Evolutionary computing
@@ -173,13 +173,13 @@ The data sources can be:
 
 - Data mining are divided into two major categories.
 
-::::{.columns}
-:::{.column}
+:::: {.columns}
+::: {.column}
 **Predictive Tasks**: The objective is to predict the value of a particular attribute based on the value of other attributes
 
 :::
 
-:::{.column}
+::: {.column}
 **Descriptive Tasks**: Here the objective is to derive patterns (correlations, trends, clusters, trajectories and anomalies) that summarize underlying relationships in data. 
 :::
 
@@ -197,12 +197,12 @@ The data sources can be:
 
 ## Application of Data Mining
 
-::::{.columns}
-:::{.column}
+:::: {.columns}
+::: {.column}
 **Business Intelligence (BI)** technologies provide historical, current and predictive views of business operations. Examples include: reporting, predictive analytics, benchmarking etc
 :::
 
-:::{.column}
+::: {.column}
 **Web Search Engines** is a specialized computer server that searches for information on the web. The search results of a user query are often returned as a list. 
 :::
 ::::
